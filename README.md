@@ -1,5 +1,3 @@
-# ADEAN
-NAMING VOTE
 <script>
     let selectedButton = null;
     const votes = {
